@@ -295,6 +295,6 @@ def main():
                                 windows.clearscreen()
                                 main()
                             else:
-                                break
+                                exit()
                 break
 main()
