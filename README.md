@@ -2,6 +2,10 @@
 
 This project was created to learn Python Game and public it in my website. I have learned it inorder to upgrade my programming skills. Various resource use utilized to build this project. @credits: Youtube, StackoverFlow, Google, Visual Code, Python libraries
 
+# 🔗 Setup File 
+<a href ="https://nayanbastola.com/wp-content/uploads/2023/05/pingpong_setup.zip" target="_blank">Download Setup File </a>
+
+
 ### Notes
 
 This project uses: Turtle Graphics Module and few .wav format sounds.
